@@ -13,22 +13,20 @@
 <body>
 	    <!-- nabvar -->
 
-	<div class="nabvar-fixed">
-	  <nav class="black">
-		<div class="nav-wrper container">
-			<a href="#" class="brand-logo">JODHAR</a>
-			<a href="#" data-taget="menu-responsive" class="sidenav-trigger"></a>
+	<body style="background-color:#c7ba99">
 
-			<ul class="right  hide-on-med-and-down">
-				<li><a href="#">Inicio</a></li>
-				<li><a href="#">xxx</a></li>
-				<li><a href="#">Blog</a></li>
-			</ul>
+	  <nav  style="background-color:#000000">
+    <div class="nav-wrapper">
+      <a href="#" class="brand-logo">JODHAR</a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="#Conocenos">Conocenos</a></li>
+      <li><a href="#Productos">Productos</a></li>
+      <li><a href="#Contactanos">contactanos</a></li>
+      <li><a href="#blog">Blog</a></li>
 
-			
-		</div>	        
-	  </nav>
-	</div>
+      </ul>
+    </div>
+  </nav>
 
 
     <!--div g -->
